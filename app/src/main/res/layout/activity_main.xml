@@ -7,7 +7,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="Kim Jong-un sent Trump a coded message:
+“370HSSV-0773H”
+Trump stared at it for hours.
+The FBI couldn’t solve it.
+The CIA couldn’t solve it.
+Finally, they asked a school kid.
+The kid turned the paper upside down and said:
+“HELLO ASSHOLE.”"
         android:textSize="24sp" />
 
 </FrameLayout>
